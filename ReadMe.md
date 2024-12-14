@@ -3,5 +3,5 @@
 
 
 
-- 🌱 I’m currently a final year computer science student @ SUT
+- 🌱 I’m currently a first-year computer science graduate student @ University of Waterloo
 
